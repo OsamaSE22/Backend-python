@@ -1,2 +1,2 @@
 # alx_be_python
-Backend with Python
+in this repo I practice programming in python
